@@ -1,2 +1,4 @@
-# streamlit-example
-A Streamlit example for deploying on Posit Connect.
+# Streamlit Example
+## A Streamlit app deployed on Posit Connect
+
+![](image.png)
